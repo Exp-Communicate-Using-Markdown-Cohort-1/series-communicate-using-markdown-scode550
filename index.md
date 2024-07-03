@@ -15,8 +15,7 @@ int main(){
 ```
 
 
-- [x] Headers in markdown
-- [x] Images in markdown
-- [x] Code blocks in markdown
-- [x] Task lists in markdown 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
