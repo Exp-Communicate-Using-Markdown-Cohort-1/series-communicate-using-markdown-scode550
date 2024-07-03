@@ -1,12 +1,11 @@
-<img src="https://octodex.github.com/images/welcometocat.png" width="200" height="200">
-
-
 # First
 ## Second
 ### Third
 #### Fourth
 ##### Fifth
 ###### Sixth
+
+![Welcometocat](https://octodex.github.com/images/welcometocat.png)
 
 ```C
 int main(){
